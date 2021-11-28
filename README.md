@@ -1,5 +1,5 @@
 # ChessEngine-AI
-An AI Chess Engine utilizing search space optimization algorithms
+An AI Chess Engine utilizing search space optimization algorithms to place optimal moves
 
 AI Algorithms include:
   - Random
